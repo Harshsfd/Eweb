@@ -1,4 +1,3 @@
-#Extion Infotech 
- - Full Stack Developer Internship Task 3 E-commerce website fully frontend and backend
- Demo - https://harshsfd.github.io/Task3-Eweb/
- 
+# Extion Infotech Task 3 - Eweb
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen)](https://harshsfd.github.io/Task3-Eweb/)
